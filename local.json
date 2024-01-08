@@ -1,5 +1,5 @@
 {
-  "API": "http://192.168.100.2:3000/grapql",
+  "API": "http://192.168.100.2:3000/graphql",
   "GOOGLE_ANDROID_ID": "1005520436574-7c34v25oobtut6ijaaf9qe3iju8s4fcc.apps.googleusercontent.com",
   "GOOGLE_IOS_ID": "1005520436574-dd2fa7fvjji6im9rqeq21dglspv67hmj.apps.googleusercontent.com"
 }
